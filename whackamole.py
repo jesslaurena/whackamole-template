@@ -2,6 +2,7 @@ import pygame
 
 
 def main():
+    print("A")
     try:
         pygame.init()
         # You can draw the mole with this snippet:
